@@ -1,2 +1,2 @@
 # mahjong-game
-CMPE365 Final PRoject
+CMPE365 Final Project
